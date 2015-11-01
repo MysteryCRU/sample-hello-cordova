@@ -14,3 +14,6 @@
 !/screenshot.png
 !/icon.png
 !/bower.json
+!/test
+!/.travis.yml
+/test/*.log
