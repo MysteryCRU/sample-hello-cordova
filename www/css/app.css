@@ -67,7 +67,9 @@ tr:nth-child(odd) > td:nth-child(2) {
     background-color: lightgreen !important ;
 }
 
-
+#id_btnBeep {
+    background-color: aqua ;   
+}
 
 /* for some simple columns */
 /* TODO: make it work or get rid of it */
