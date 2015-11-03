@@ -3,4 +3,4 @@ Auberon Lopez
 Connor Krier
 Wasae Qureshi
 Anil Thattayathu
-Cody Sears
+Cody Double U. Sears
