@@ -1,5 +1,5 @@
 # Mystery CRU Hello World
-Auberon Lopez
+Auberon Hayter Lopez
 Connor Krier
 Wasae Qureshi
 Anil Thattayathu
