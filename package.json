@@ -1,0 +1,6 @@
+{
+  "name": "helloCRU",
+  "version": "0.0.1",
+  "description": "Sample package",
+  "scripts": { "test": "node test/all.js" }
+}
