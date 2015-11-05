@@ -6,6 +6,8 @@
     "test": "node test/all.js"
   },
   "dependencies": {
+    "express": "^4.13.3",
+    "monk": "^1.0.1",
     "test": "^0.6.0"
   }
 }
