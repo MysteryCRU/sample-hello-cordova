@@ -1,3 +1,7 @@
+if("Hello, World!" === "Hello, World!") {
+	console.log("Test passed.");
+}
+
 var assert = require('assert')
 exports['test if the values are the same'] = function() {
     //var util = require("../www/js/util.js");
