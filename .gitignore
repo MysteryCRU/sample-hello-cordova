@@ -17,3 +17,5 @@
 !/.travis.yml
 /test/*.log
 !/package.json
+!/server
+!/node_modules
